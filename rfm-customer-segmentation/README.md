@@ -19,7 +19,7 @@ Each customer receives a score from **1 (lowest)** to **5 (highest)** on each of
 ## 📁 Project Structure
 
 - `data/` — Raw and processed transaction data  
-- `pycode/` — Python scripts and Jupyter notebooks for RFM calculation  
+- `notebook/` — Python scripts and Jupyter notebooks for RFM calculation  
 - `powerbi/` — Power BI `.pbix` report for customer segmentation  
 - `reports/` — Exported reports (PDF/images) from the Power BI dashboard  
 - `README.md` — Project overview and instructions  
